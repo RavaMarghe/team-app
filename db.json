@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Title2",
+      "author": "marghe"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some other comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
